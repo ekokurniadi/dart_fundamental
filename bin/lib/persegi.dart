@@ -18,6 +18,8 @@ class Persegi {
 
 /*
 * membuat setter dan getter menggunakan property set dan get
+* set untuk mengisi nilai
+* get untuk mengambil nilai
  */
 
   set panjang(double value) {
