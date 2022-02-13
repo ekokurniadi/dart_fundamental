@@ -31,5 +31,6 @@ void main() {
     if (monster is MonsterIkan) {
       print(monster.swim());
     }
+    print(monster.move());
   }
 }
